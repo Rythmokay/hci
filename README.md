@@ -5,7 +5,7 @@ A minimalist web application for predicting house prices using Linear Regression
 ## Project Structure
 
 ```
-house_price_prediction/
+hci/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py
@@ -34,8 +34,8 @@ house_price_prediction/
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/house-price-prediction.git
-cd house-price-prediction
+git clone https://github.com/Rythmokay/hci.git
+cd hci
 ```
 
 2. Create a virtual environment and activate it:
