@@ -12,13 +12,13 @@ hci/
 │   ├── model/
 │   │   ├── __init__.py
 │   │   ├── train.py
-│   │   └── model.pkl (generated after first run)
+│   │   └── model.pkl 
 │   ├── static/
 │   │   └── style.css
 │   └── templates/
 │       └── index.html
 ├── data/
-│   └── housing_data.csv (generated if not present)
+│   └── housing_data.csv 
 ├── requirements.txt
 └── README.md
 ```
